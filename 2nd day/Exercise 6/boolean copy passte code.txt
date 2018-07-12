@@ -1,0 +1,3 @@
+var a = true;
+a = null; // no separate nullable types in TypeScript and Javascript like c#
+alert(a);

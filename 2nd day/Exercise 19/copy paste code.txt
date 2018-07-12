@@ -1,0 +1,7 @@
+
+var a: number;
+alert("SDF"); 
+
+alert(typeof (a));
+a = 12;
+alert(typeof (a));

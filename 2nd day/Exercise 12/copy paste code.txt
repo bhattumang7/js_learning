@@ -1,0 +1,9 @@
+
+var longstring1 = "first line \
+second line \
+third line \
+fourth line";
+var piece = longstring1[0];
+alert(piece);
+alert('asdf'[0]);
+alert(longstring1.charAt(0));

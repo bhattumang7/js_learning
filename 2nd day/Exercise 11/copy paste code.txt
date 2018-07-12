@@ -1,0 +1,11 @@
+let longstring = "ASdf asdf asdfa " +
+    "asdfasdfasdf" +
+    "asdf";
+
+
+var longstring1 = "first line \
+second line \
+third line \
+fourth line";
+
+alert(longstring1);

@@ -1,0 +1,7 @@
+
+var array: number[] = [1, 23, 1];
+var array1: any[] = ["ASDf", 123, true];
+let list: Array<number> = [1, 2, 3];   
+let list1: Array<any> = [1, "ASdf", false];   
+alert(list[0]);
+alert(list.length);

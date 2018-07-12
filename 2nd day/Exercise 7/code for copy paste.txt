@@ -1,0 +1,6 @@
+var decimal: number = 6;
+let hex: number = 0x000f;
+var binary: number = 0b100a;
+let octal: number = 0o744;
+
+alert(hex);

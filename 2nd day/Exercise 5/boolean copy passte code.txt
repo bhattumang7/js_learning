@@ -1,0 +1,4 @@
+var a = true;
+let b : boolean = false;
+
+alert(1 > 0); // comparison example

@@ -1,0 +1,4 @@
+let counter; // unknown any type
+let counter1 = 0;
+let counter2: number;
+let counter3: number = 0;

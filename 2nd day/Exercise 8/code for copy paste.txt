@@ -1,0 +1,4 @@
+var a = 12;
+var b = 0;
+var ans = a / b;
+alert(a / b);

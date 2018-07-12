@@ -1,0 +1,6 @@
+var a = "asdfasdfasdf ";
+var b = 'a"sdf"';
+var c = "asdf ';sdf'sdf";
+var d = "'\na\nb'";
+alert(d);
+console.log(d);

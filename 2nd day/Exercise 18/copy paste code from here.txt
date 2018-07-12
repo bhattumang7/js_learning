@@ -1,0 +1,6 @@
+let notSure: any = 4; // OK   
+alert(notSure);
+notSure = "maybe   a string instead"; // OK   
+alert(notSure);
+notSure = false; // OK   
+alert(notSure);
